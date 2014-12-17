@@ -1,0 +1,10 @@
+D:\project\winform\StudentRecordApp\StudentRecordApp\bin\Debug\StudentRecordApp.exe.config
+D:\project\winform\StudentRecordApp\StudentRecordApp\bin\Debug\StudentRecordApp.exe
+D:\project\winform\StudentRecordApp\StudentRecordApp\bin\Debug\StudentRecordApp.pdb
+D:\project\winform\StudentRecordApp\StudentRecordApp\obj\Debug\StudentRecordApp.csprojResolveAssemblyReference.cache
+D:\project\winform\StudentRecordApp\StudentRecordApp\obj\Debug\StudentRecordApp.Properties.Resources.resources
+D:\project\winform\StudentRecordApp\StudentRecordApp\obj\Debug\StudentRecordApp.csproj.GenerateResource.Cache
+D:\project\winform\StudentRecordApp\StudentRecordApp\obj\Debug\StudentRecordApp.exe
+D:\project\winform\StudentRecordApp\StudentRecordApp\obj\Debug\StudentRecordApp.pdb
+D:\project\winform\StudentRecordApp\StudentRecordApp\bin\Debug\CSVLib.dll
+D:\project\winform\StudentRecordApp\StudentRecordApp\obj\Debug\StudentRecordApp.StudentIformationUI.resources
